@@ -1,4 +1,4 @@
-# Sprout Means Grow
+# Sprout Means Grow Tutorials List
 
 To Do list and directory for tutorials
 
